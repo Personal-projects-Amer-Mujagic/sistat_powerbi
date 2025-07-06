@@ -1,0 +1,27 @@
+{
+  "query": [
+    {
+      "code": "SEKTOR",
+      "selection": {
+        "filter": "item",
+        "values": [
+          "TOT",
+          "1",
+          "2"
+        ]
+      }
+    },
+    {
+      "code": "MERITVE",
+      "selection": {
+        "filter": "item",
+        "values": [
+          "1"
+        ]
+      }
+    }
+  ],
+  "response": {
+    "format": "csv"
+  }
+}
