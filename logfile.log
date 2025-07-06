@@ -1,0 +1,1 @@
+2025-07-06 14:40:13,684 [ERROR] Failed to write Excel file: No module named 'openpyxl'
